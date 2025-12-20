@@ -5,8 +5,6 @@ A lightweight, interactive HTML editor that lets you write, edit, and instantly 
 A lightweight, browser-based HTML/CSS/JS editor built using pure HTML, CSS, and JavaScript.  
 Designed for learners, hobbyists, and coders who want to experiment directly in the browser.
 
-⚡ Key idea: Some features are intentionally left incomplete to encourage exploration, debugging, and contribution. Experienced users will find “gaps” to play with.
-
 ⚠️ Note: This is a client-side editor intended for personal, educational, and experimental use. It is **not** a full-scale IDE.
 
 ---
