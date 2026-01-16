@@ -33,9 +33,14 @@ It focuses on **direct browser-based learning**, live experimentation, and light
 - Execute code in an iframe sandbox
 - Export combined HTML, CSS, JS as a single downloadable file
 - Optional file import for HTML, JS, and CSS
+- File import: `.html`, `.htm`, `.txt`, `.js`, `.css`
 - Adjustable font size, word wrap, and night mode
 - Easter egg / credits mode triggers a fun glitch animation
 - Clear or reset editors individually or fully
+- Word wrap toggle
+- Night mode for low-light coding
+- Font size adjustment
+- Credits / Easter Egg mode for fun surprises
 
 ---
 

@@ -18,12 +18,8 @@ Designed for learners, hobbyists, and coders who want to experiment directly in 
 - Run code in an embedded iframe
 - Clear editors or reset workspace
 - Export code as a standalone HTML file
-- File import: `.html`, `.htm`, `.txt`, `.js`, `.css`
-- Word wrap toggle
-- Night mode for low-light coding
-- Font size adjustment
-- Credits / Easter Egg mode for fun surprises
 - Fully offline, portable, and dependency-free
+- Option button with features like theme, word wrap, etc.
 
 ---
 
@@ -59,3 +55,7 @@ No installation required.
 Open for learning, modification, experimentation, and redistribution.
 
 ---
+
+---
+> 🌐 **Try Live**  
+> Try it here: https://akp-labs.github.io/live-html-editor
