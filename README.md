@@ -1,4 +1,4 @@
-# Live_HTML_Editor
+# Live HTML Editor
 
 A lightweight, browser-based, interactive HTML editor built using pure HTML, CSS, and JavaScript, that lets you write, edit, and instantly preview HTML content. Supports live preview, dark/light mode, font size customization, and HTML download. Perfect for experimenting with web layouts or building pages on the fly.
 Especially Designed for learners, hobbyists, and coders who want to experiment directly in the browser.
