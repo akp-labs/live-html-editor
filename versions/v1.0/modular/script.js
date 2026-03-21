@@ -164,13 +164,13 @@ else if (action === 'hideTB') {
 
 
   else if (action === 'credits') {
-  alert("This is an HTML editor created by Stark Industries.\n\nFeel free to use and modify it as you wish!");
+  alert("This is an HTML editor created by AK.\n\nFeel free to use and modify it as you wish!");
   htmlEditor.innerHTML = `
     <center><b>CREDITS</b></center>
-    <center>Created by Stark Industries</center>
+    <center>Created by AK</center>
     <center>Feel free to use and modify it as you wish!</center>
     <br>
-    AUTHOR: Aman Kumar Pandey <br>
+    AUTHOR: AK Pandey <br>
     VERSION: 1.0 <br>
     DATE: 2023-10-01 <br>
     LICENSE: MIT License <br>

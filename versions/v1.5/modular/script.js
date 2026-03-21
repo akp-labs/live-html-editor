@@ -196,10 +196,10 @@ function hideToggleButtons(){
 }
 //=========================================================================
 function showCredits(){
-  alert("This is an HTML editor created by AKP Labs.\n\nFeel free to use and modify it as you wish!");
+  alert("This is an HTML editor created by AK.\n\nFeel free to use and modify it as you wish!");
   htmlEditor.innerHTML = `
     <center><b>CREDITS</b></center>
-    <center>Created by AKP Labs</center>
+    <center>Created by AK</center>
     <center>Feel free to use and modify it as you wish!</center>
     <br>
     AUTHOR: Ak <br>
