@@ -30,11 +30,12 @@ Each version folder contains its own documentation explaining available formats,
 
 No installation required.
 
-1. Navigate to a version inside the `versions` directory and choose your preferred build
-2. Open file and start typing HTML, CSS, and JS in the respective editors
-3. Click **Run** to see output
-4. Use **Back** to return to editors
-5. Optional: Use the floating toolbar for extra options like file import, download, night mode, and font adjustments
+1. Clone the repository(or download the specific file(s))
+2. Navigate to a version inside the `versions` directory and choose your preferred build
+3. Open file and start typing HTML, CSS, and JS in the respective editors
+4. Click **Run** to see output
+5. Use **Back** to return to editors
+6. Optional: Use the floating toolbar for extra options like file import, download, night mode, and font adjustments
 
 ---
 
@@ -54,4 +55,4 @@ Open for learning, modification, experimentation, and redistribution.
 
 ---
 > 🌐 **Try Live**  
-> Try it here: https://akp-labs.github.io/live-html-editor
+> Try it here: https://akpandey-dev.github.io/live-html-editor
